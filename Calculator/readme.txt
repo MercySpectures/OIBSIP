@@ -2,7 +2,7 @@
 This is a simple calculator web application created using HTML, CSS, and JavaScript. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The application has a responsive design and can be used on desktop and mobile devices.
 
 ##Installation
-Clone the repository: git clone https://github.com/your-username/calculator.git
+Clone the repository: git clone https://github.com/MercySpectures/OIBSIP/Calculator.git
 Navigate to the project directory: cd calculator
 Open the index.html file in your preferred web browser.
 
